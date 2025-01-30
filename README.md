@@ -1,6 +1,6 @@
 # READ ME!
 # About Me
-Hello! My name is Troy Diaz and I'm pursuing a B.S. degree in Computer Science with a minor in Mathematics at Oregon State University. 
+Hello! My name is Seth Baker. I'm pursuing a B.S. degree in Computer Science - Cyber Security Operations at Oregon State University. 
 
 # Languages and Tools
 
